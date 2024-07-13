@@ -8,7 +8,7 @@ An iOS bubble pop game for a friend and her cat❤️
 - Customizable game duration and number of cats
 - Difficulty increases in the last 10s
 - Score tracking and leaderboard
-- Charming cat graphics (including my cat!)
+- Cute cats (including my cat!)
 
 ## Installation
 
